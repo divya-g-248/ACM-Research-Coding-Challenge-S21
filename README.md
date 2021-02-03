@@ -26,4 +26,4 @@ Regardless if you can or cannot answer the question, provide a short explanation
 
 ## Answer
 After doing some research, I found a library (pyCircos) that had adapted Circos (a software package for genomic analysis in perl) to python. GitHub link: https://github.com/ponnhide/pyCircos.
-With the help of the sample programs, I made the circular genome map. It is divided into 5 sections, and I was planning on labelling each section with the locus tag for the gene it represents.
+With the help of the sample programs, I made the circular genome map. It is divided into 5 sections, and I was planning on labelling each section with the locus tag for the gene it represents. Next I would connect genes ToCSVgp3 and ToCSVgp4 because they produce proteins C3 and C2, which are related proteins. 
