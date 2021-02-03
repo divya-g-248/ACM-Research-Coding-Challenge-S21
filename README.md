@@ -29,6 +29,7 @@ After doing some research, I found a library (pyCircos) that had adapted Circos 
 With the help of the sample programs, I made the circular genome map. It is divided into 5 sections, and I was planning on labelling each section with the locus tag for the gene it represents. Next I would connect genes ToCSVgp3 and ToCSVgp4 because they produce proteins C3 and C2, which are related proteins.
 
 I used the following python libraries:
+    
     numpy
     pycircos
     Bio
